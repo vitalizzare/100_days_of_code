@@ -10,3 +10,9 @@ Nov 26, 2020
 - a linter inside of notebooks, based on nblint
 - advice about learning
 - commenting regex
+
+[Day 3](days/day_03.md)  
+Nov 27, 2020
+- jupyter tools updated by script to get help on jupyter commands
+- learned the system of extensions in jupyter NB and Lab
+- started writing the 2048 game
