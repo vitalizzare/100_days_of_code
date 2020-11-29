@@ -16,3 +16,9 @@ Nov 27, 2020
 - jupyter tools updated by script to get help on jupyter commands
 - learned the system of extensions in jupyter NB and Lab
 - started writing the 2048 game
+
+[Day 4](days/day_04.md)  
+Nov 28, 2020
+- the first game, let's be it 2048
+- vim practice
+- crazy idea for lists not to respond at `-1`
